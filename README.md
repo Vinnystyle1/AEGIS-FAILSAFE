@@ -18,7 +18,7 @@ Repository Architecture
 | Deliverable | Classification & Format | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
 | **[`00_EXECUTIVE_DIRECTIVE_BRIEFING.md`](docs/00_EXECUTIVE_DIRECTIVE_BRIEFING.md)** | National Security Memorandum Style | Strategic paradox, operational BLUF, CISA NCF exposure, and a 30-60-90 day interagency roadmap. | **Live** |
-| \[\`01\_SYSTEMIC\_THREAT\_ANALYSIS.md\`](docs/01\_SYSTEMIC\_THREAT\_ANALYSIS.md)\ | Interagency Technical Assessment | Autonomous agent mechanics, kernel memory fault dynamics, and cross-sector cascading blast radiuses. | \*\*Live\*\* |
+| \*\*[\`01\_SYSTEMIC\_THREAT\_ANALYSIS.md\`](docs/01\_SYSTEMIC\_THREAT\_ANALYSIS.md)\*\* | Interagency Technical Assessment | Autonomous agent mechanics, kernel memory fault dynamics, and cross-sector cascading blast radiuses. | \*\*Live\*\* |
 | **`02_FEDERAL_IMPACT_ASSESSMENT.md`** | Cross-Sector Resilience Review | Macroeconomic friction, continuity of government, military readiness, and geopolitical exploitation windows. | *Scheduled* |
 | **`03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md`** | Federal Procurement & Controls Guide | Control crosswalks aligning NIST CSF 2.0, SP 800-53 Rev. 5, SP 800-161, and the AI RMF 1.0. | *Scheduled* |
 
