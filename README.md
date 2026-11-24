@@ -1,13 +1,11 @@
-Here is the complete **`README.md`** template formatted and ready to copy and paste directly into your GitHub repository:
 
-```markdown
 # Project AEGIS-FAILSAFE: Dual-Vector Systemic Risk & Resilient Governance
 
 > **A Federal Risk Architecture Addressing the Velocity Paradox Between Machine-Speed AI Exploitation and Cascading Patch Failures Across National Critical Functions.**
 
 ---
 
-## 📌 Executive Overview
+ Executive Overview
 Modern cybersecurity operations face an asymmetric structural trap:
 * **The Machine-Speed Threat:** Adversaries deploy autonomous AI agents capable of continuous reconnaissance, polymorphic payload iteration, and sub-second lateral traversal—collapsing defensive decision cycles (OODA loops).
 * **The Fragile Defensive Reaction:** Defensive teams rush out-of-band updates and monolithic security definitions directly into privileged runtime and kernel spaces.
@@ -15,7 +13,7 @@ Modern cybersecurity operations face an asymmetric structural trap:
 
 ---
 
-## 📂 Repository Architecture
+Repository Architecture
 
 | Deliverable | Classification & Format | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +24,7 @@ Modern cybersecurity operations face an asymmetric structural trap:
 
 ---
 
-## 🏛️ Statutory, Regulatory & Governance Baselines
+ Statutory, Regulatory & Governance Baselines
 
 This project synthesizes federal policy directives and systems engineering standards into actionable defense controls:
 
@@ -40,6 +38,6 @@ This project synthesizes federal policy directives and systems engineering stand
 
 ---
 
-## 🎯 Author & Background
+ Author & Background
 Authored as a graduate-level Governance, Risk, and Compliance (GRC) initiative analyzing the systemic fragility of high-privilege software ecosystems and establishing resilient federal deployment architectures.
 ```
