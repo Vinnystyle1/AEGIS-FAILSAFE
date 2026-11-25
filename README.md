@@ -44,11 +44,17 @@ This project synthesizes federal policy directives and systems engineering stand
 * **LinkedIn**: [linkedin.com/in/kelvinmramba/](https://linkedin.com/in/kelvinmramba/)
 * **Email**: kelvinmramba@gmail.com
 
-### Citation
+### 📖 Citation
+
+If you reference, adapt, or build upon this framework in research, policy analysis, coursework, or technical governance documentation, please cite it as follows:
+
+#### BibTeX
 
 @misc{aegis_failsafe_2026,
-  author = Kelvin Mramba,
-  title = Project AEGIS-FAILSAFE: Dual-Vector Systemic Risk & Resilient Governance in Machine-Speed Critical Infrastructure},
-  year = 2026,
-  publisher = GitHub,
-  howpublished = https://github.com/Vinnystyle1/project-aegis-failsafe
+  author       = {Kelvin Mramba},
+  title        = {{Project AEGIS-FAILSAFE: Dual-Vector Systemic Risk and Resilient Governance in Machine-Speed Critical Infrastructure}},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/VinnyStyle1/project-aegis-failsafe}}
+}
