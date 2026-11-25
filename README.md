@@ -5,7 +5,7 @@
 
 ---
 
- Executive Overview
+## 📌 Executive Overview
 Modern cybersecurity operations face an asymmetric structural trap:
 * **The Machine-Speed Threat:** Adversaries deploy autonomous AI agents capable of continuous reconnaissance, polymorphic payload iteration, and sub-second lateral traversal—collapsing defensive decision cycles (OODA loops).
 * **The Fragile Defensive Reaction:** Defensive teams rush out-of-band updates and monolithic security definitions directly into privileged runtime and kernel spaces.
@@ -13,18 +13,19 @@ Modern cybersecurity operations face an asymmetric structural trap:
 
 ---
 
-Repository Architecture
+## 📂 Repository Architecture
 
 | Deliverable | Classification & Format | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
 | **[`00_EXECUTIVE_DIRECTIVE_BRIEFING.md`](docs/00_EXECUTIVE_DIRECTIVE_BRIEFING.md)** | National Security Memorandum Style | Strategic paradox, operational BLUF, CISA NCF exposure, and a 30-60-90 day interagency roadmap. | **Live** |
-| [\`01\_SYSTEMIC\_THREAT\_ANALYSIS.md\`](docs/01\_SYSTEMIC\_THREAT\_ANALYSIS.md) | Interagency Technical Assessment | Autonomous agent mechanics, kernel memory fault dynamics, and cross-sector cascading blast radiuses. | \*\*Live\*\* |
-| **`02_FEDERAL_IMPACT_ASSESSMENT.md`** | Cross-Sector Resilience Review | Macroeconomic friction, continuity of government, military readiness, and geopolitical exploitation windows. | *Live* |
-| **`03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md`** | Federal Procurement & Controls Guide | Control crosswalks aligning NIST CSF 2.0, SP 800-53 Rev. 5, SP 800-161, and the AI RMF 1.0. | *Scheduled* |
+| **[`CONCEPT_MEMORANDUM_DUAL_VECTOR_RISK.md`](docs/CONCEPT_MEMORANDUM_DUAL_VECTOR_RISK.md)** | Interagency Concept Memorandum | De-jargonized primer on agentic AI exploitation, kernel/Ring 0 architecture, and speaking checkpoints. | **Live** |
+| **[`01_SYSTEMIC_THREAT_ANALYSIS.md`](docs/01_SYSTEMIC_THREAT_ANALYSIS.md)** | Interagency Technical Assessment | Autonomous agent mechanics, kernel memory fault dynamics, and cross-sector cascading blast radiuses. | **Live** |
+| **[`02_FEDERAL_IMPACT_ASSESSMENT.md`](docs/02_FEDERAL_IMPACT_ASSESSMENT.md)** | Cross-Sector Resilience Review (NSM-22) | Macroeconomic friction, aviation gridlock, healthcare disruption, and geopolitical exploitation windows. | **Live** |
+| **`03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md`** | Federal Procurement & Controls Guide | Control crosswalks aligning NIST CSF 2.0, SP 800-53 Rev. 5, SP 800-161, SP 800-218, and AI RMF 1.0. | *In Drafting* |
 
 ---
 
- Statutory, Regulatory & Governance Baselines
+## 🏛️ Statutory, Regulatory & Governance Baselines
 
 This project synthesizes federal policy directives and systems engineering standards into actionable defense controls:
 
@@ -38,6 +39,5 @@ This project synthesizes federal policy directives and systems engineering stand
 
 ---
 
- Author & Background
+## 🎯 Author & Background
 Authored as a graduate-level Governance, Risk, and Compliance (GRC) initiative analyzing the systemic fragility of high-privilege software ecosystems and establishing resilient federal deployment architectures.
-```
