@@ -38,5 +38,18 @@ This project synthesizes federal policy directives and systems engineering stand
 
 ---
 
-## 🎯 Author & Background
-Authored as a graduate-level Governance, Risk, and Compliance (GRC) initiative analyzing the systemic fragility of high-privilege software ecosystems and establishing resilient federal deployment architectures.
+## 👤 Author & Inquiries
+* **Author**: Kelvin Mramba
+* **Focus**: Federal Cybersecurity Governance, Risk, & Compliance (GRC) | Critical Infrastructure Resilience
+* **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/kelvinmramba/)
+* **Email**: kelvinmramba@gmail.com
+
+### Citation
+
+@misc{aegis_failsafe_2026,
+  author = {[Kelvin Mramba},
+  title = {Project AEGIS-FAILSAFE: Dual-Vector Systemic Risk & Resilient Governance in Machine-Speed Critical Infrastructure},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/Vinnystyle1/project-aegis-failsafe}}
+}
