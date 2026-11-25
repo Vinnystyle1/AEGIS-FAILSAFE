@@ -1,4 +1,3 @@
-
 # Project AEGIS-FAILSAFE: Dual-Vector Systemic Risk & Resilient Governance
 
 > **A Federal Risk Architecture Addressing the Velocity Paradox Between Machine-Speed AI Exploitation and Cascading Patch Failures Across National Critical Functions.**
@@ -20,8 +19,8 @@ Modern cybersecurity operations face an asymmetric structural trap:
 | **[`00_EXECUTIVE_DIRECTIVE_BRIEFING.md`](docs/00_EXECUTIVE_DIRECTIVE_BRIEFING.md)** | National Security Memorandum Style | Strategic paradox, operational BLUF, CISA NCF exposure, and a 30-60-90 day interagency roadmap. | **Live** |
 | **[`CONCEPT_MEMORANDUM_DUAL_VECTOR_RISK.md`](docs/CONCEPT_MEMORANDUM_DUAL_VECTOR_RISK.md)** | Interagency Concept Memorandum | De-jargonized primer on agentic AI exploitation, kernel/Ring 0 architecture, and speaking checkpoints. | **Live** |
 | **[`01_SYSTEMIC_THREAT_ANALYSIS.md`](docs/01_SYSTEMIC_THREAT_ANALYSIS.md)** | Interagency Technical Assessment | Autonomous agent mechanics, kernel memory fault dynamics, and cross-sector cascading blast radiuses. | **Live** |
-| **[`02_FEDERAL_IMPACT_ASSESSMENT.md`](docs/02_FEDERAL_IMPACT_ASSESSMENT.md)** | Cross-Sector Resilience Review (NSM-22) | Macroeconomic friction, aviation gridlock, healthcare disruption, and geopolitical exploitation windows. | **Live** |
-| **`03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md`](docs/03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md)** | Federal Procurement & Controls Guide | Control crosswalks aligning NIST CSF 2.0, SP 800-53 Rev. 5, SP 800-161, SP 800-218, and AI RMF 1.0. | *In Drafting* |
+| **[`02_FEDERAL_IMPACT_ASSESSMENT.md`](docs/02_FEDERAL_IMPACT_ASSESSMENT.md)** | Cross-Sector Resilience Review | Macro-economic friction, aviation gridlock, healthcare disruption, and geopolitical exploitation windows. | **Live** |
+| **[`03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md`](docs/03_NIST_FEDERAL_REMEDIATION_BLUEPRINT.md)** | Federal Procurement & Controls Guide | Safe-deployment architecture, canary rings, circuit breakers, and NIST SP 800-53 Rev. 5 control crosswalks. | **Live** |
 
 ---
 
